@@ -3,7 +3,7 @@
 ## Project 3: Recommendation System
 
 
-- How to run the code
+- Steps to regenerate the report
     1. Make sure that putting your data folder in the same directory of your main.ipynb.
     2. Modify the path in the first cell of notebook to yours local path. (if need)
     3. Open main.ipynb and run it.
