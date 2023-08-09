@@ -1,4 +1,4 @@
-#  Regression and Sentimental Analysis
+#  Sentimental Regression Analysis
 
 ## Steps to regenerate the report
 
