@@ -1,5 +1,5 @@
 # Large Scale Data Mining
-This repository contains a collection of projects focused on various aspects of large-scale data mining. Each project addresses a different problem domain and utilizes various machine learning techniques to derive insights from data. Below is a summary of each project.
+This repository contains a collection of projects from ECE-219 Large Scale Data Mining course at UCLA (Winter 2023). Each project addresses a different problem domain and utilizes various machine learning techniques to derive insights from data.
 
 ## Table of Contents
 - [Projects Overview](#projects-overview)
